@@ -1,0 +1,22 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "gqKs_9UuA-NGJHKgsd7LF",
+            "name": "1_Kireev",
+            "driver": "mysql",
+            "connectionType": "host",
+            "host": "147.45.184.12",
+            "port": 3306,
+            "ssl": false,
+            "username": "1_Kireev",
+            "password": "4K\\a]~0$7[!La>iA",
+            "savePassword": "yes",
+            "readOnly": false,
+            "postConnectionSqlType": "inline",
+            "connectionTimeout": 30,
+            "driverOptions": {
+                "retrievePublickey": true
+            }
+        }
+    ]
+}
