@@ -10,4 +10,4 @@ ALTER TABLE Kireev_Table ADD COLUMN user_name TEXT;
 ALTER TABLE Kireev_Table ADD COLUMN inst_type varchar(100);
 ALTER TABLE Kireev_Table ADD COLUMN inst_name varchar(100);
 INSERT INTO Kireev_Table (id,name, inst_type, inst_name, )
-VALUES (1, 'Иван Иваныч', 'Пианино', 'Клавишный');
+VALUES ('game', 'nft');
