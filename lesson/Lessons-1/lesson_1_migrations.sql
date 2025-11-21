@@ -1,5 +1,4 @@
-
-
+DROP TABLE Kireev_Table;
 CREATE TABLE Kireev_Table (
   id int DEFAULT NULL,
   name varchar(255) DEFAULT NULL
